@@ -1,0 +1,41 @@
+body {
+    background-color: #00010FFF;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+    color: white;
+    text-align: center;
+    padding-top: 0%;
+}
+
+.container {
+    display: flex;
+    padding-top: 0%;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+.container img {
+    max-width: 70%;
+    max-height: 70%;
+}
+  
+p {
+    font-family: sans-serif;
+    font-size: px;
+    color: white;
+    padding-bottom: 5px;
+}
+
+footer {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 2px;
+}
+
+
+  
